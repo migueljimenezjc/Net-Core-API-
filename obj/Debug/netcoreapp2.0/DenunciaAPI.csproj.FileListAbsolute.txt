@@ -1,0 +1,11 @@
+C:\Users\Datransfer TIC-01\source\repos\DenunciaAPI\DenunciaAPI\bin\Debug\netcoreapp2.0\DenunciaAPI.deps.json
+C:\Users\Datransfer TIC-01\source\repos\DenunciaAPI\DenunciaAPI\bin\Debug\netcoreapp2.0\DenunciaAPI.runtimeconfig.json
+C:\Users\Datransfer TIC-01\source\repos\DenunciaAPI\DenunciaAPI\bin\Debug\netcoreapp2.0\DenunciaAPI.runtimeconfig.dev.json
+C:\Users\Datransfer TIC-01\source\repos\DenunciaAPI\DenunciaAPI\bin\Debug\netcoreapp2.0\DenunciaAPI.dll
+C:\Users\Datransfer TIC-01\source\repos\DenunciaAPI\DenunciaAPI\bin\Debug\netcoreapp2.0\DenunciaAPI.pdb
+C:\Users\Datransfer TIC-01\source\repos\DenunciaAPI\DenunciaAPI\obj\Debug\netcoreapp2.0\DenunciaAPI.csproj.CoreCompileInputs.cache
+C:\Users\Datransfer TIC-01\source\repos\DenunciaAPI\DenunciaAPI\obj\Debug\netcoreapp2.0\DenunciaAPI.AssemblyInfoInputs.cache
+C:\Users\Datransfer TIC-01\source\repos\DenunciaAPI\DenunciaAPI\obj\Debug\netcoreapp2.0\DenunciaAPI.AssemblyInfo.cs
+C:\Users\Datransfer TIC-01\source\repos\DenunciaAPI\DenunciaAPI\obj\Debug\netcoreapp2.0\DenunciaAPI.dll
+C:\Users\Datransfer TIC-01\source\repos\DenunciaAPI\DenunciaAPI\obj\Debug\netcoreapp2.0\DenunciaAPI.pdb
+C:\Users\Datransfer TIC-01\source\repos\DenunciaAPI\DenunciaAPI\obj\Debug\netcoreapp2.0\DenunciaAPI.csprojResolveAssemblyReference.cache
